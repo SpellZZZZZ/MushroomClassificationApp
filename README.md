@@ -1,19 +1,19 @@
 # Mushroom Classification Android App
 
 ## Table of Contents
-1. [Authors](#authors)
-2. [Problem Background](#problem-background)
-3. [Data Source](#data-source)
-   - [Mushroom Species](#mushroom-species)
-4. [Algorithms](#algorithms)
-   - [Models Used](#models-used)
-5. [Results](#results)
-6. [Android App](#android-app)
-   - [Source](#source)
-7. [Lessons Learned](#lessons-learned)
-8. [Limitations and Future Improvements](#limitations-and-future-improvements)
-   - [Limitations](#limitations)
-   - [Future Improvements](#future-improvements)
+- [Authors](#authors)
+- [Problem Background](#problem-background)
+- [Data Source](#data-source)
+- [Mushroom Species](#mushroom-species)
+- [Algorithms](#algorithms)
+- [Models Used](#models-used)
+- [Results](#results)
+- [Android App](#android-app)
+- [Source](#source)
+- [Lessons Learned](#lessons-learned)
+- [Limitations and Future Improvements](#limitations-and-future-improvements)
+- [Limitations](#limitations)
+- [Future Improvements](#future-improvements)
 
 ## Authors
 - [@SpellZZZZZ](https://github.com/SpellZZZZZ)
@@ -64,8 +64,9 @@ We tried multiple pretrained CNN models in the process of building the model.
 - Xception
 
 ## Results
-
-
+![result](readme_images/results_of_all_models.png)
+![species_results](readme_images/species_results.png)
+![confusion matrix](readme_images/confusion_matrix.png)
 ## Android App
 For the android app, we modified an existing image classification android app from GitHub.
 
