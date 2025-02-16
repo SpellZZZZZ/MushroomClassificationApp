@@ -64,11 +64,11 @@ We tried multiple pretrained CNN models in the process of building the model.
 - Xception
 
 ## Results
-![result](readme_images/results_of_all_models.png)
+![result](readme_images/results_of_all_models.png) <br>
 Results of all the CNN Models
-![species_results](readme_images/species_results.png)
+![species_results](readme_images/species_results.png) <br>
 Species results of the best model (MobileNet)
-![confusion matrix](readme_images/confusion_matrix.png)
+![confusion matrix](readme_images/confusion_matrix.png) <br>
 Confusion matrix of the species results
 ## Android App
 For the android app, we modified an existing image classification android app from GitHub.
