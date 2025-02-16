@@ -6,14 +6,11 @@
 - [Data Source](#data-source)
 - [Mushroom Species](#mushroom-species)
 - [Algorithms](#algorithms)
-- [Models Used](#models-used)
 - [Results](#results)
 - [Android App](#android-app)
 - [Source](#source)
 - [Lessons Learned](#lessons-learned)
 - [Limitations and Future Improvements](#limitations-and-future-improvements)
-- [Limitations](#limitations)
-- [Future Improvements](#future-improvements)
 
 ## Authors
 - [@SpellZZZZZ](https://github.com/SpellZZZZZ)
