@@ -1,4 +1,4 @@
-# Mushroom Classification Android App
+# Mushroom Image Classification Android App
 
 ## Table of Contents
 - [Authors](#authors)
