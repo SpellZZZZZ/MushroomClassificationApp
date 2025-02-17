@@ -1,4 +1,4 @@
-# Mushroom Image Classification Android App
+# CNN Mushroom Image Classification with Android App
 
 ## Table of Contents
 - [Authors](#authors)
